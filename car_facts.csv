@@ -1,0 +1,12 @@
+model,make,year,fact,engine,price,seating
+Model S,Tesla,2023,0-60 mph in 2.3 seconds,Its electric,$79990,4 seats
+Mustang,Ford,2021,0-60 in 4.3 seconds, 5.0L Ti-VCT V8 Engine,$55995,4 seats
+Camaro,Chevrolet,2020,0-60 in 3.5 seconds, 3.6L V6 Engine,$30900,2 seats
+911,Porsche,2022,0-60 in 3.1 seconds, Flat-six Engine,$115100,2+2 seats
+M4,BMW,2023,0-60 in 3.8 seconds, Twin-turbo Inline-6 Engine,$71500,4 seats
+R8,Audi,2022,0-60 in 3.2 seconds, V10 Engine,$142700,2 seats
+Huracan,Lamborghini,2023,0-60 in 2.8 seconds, 5.2L V10 Engine,$261274,2 seats
+F488,Ferrari,2023,0-60 in 3.0 seconds,3.9L Twin-turbo V8 Engine,$331000,2 seats
+Chevrolet Corvette,Chevrolet,2023,0-60 in 3.0 seconds,6.2L V8 Engine,$62500,2 seats
+Cayenne,Porsche,2023,0-60 in 4.2 seconds,3.0L Turbo V6 Engine,$68000,5 seats
+Model X,Tesla,2023,0-60 in 3.8 seconds,Its electric,$89990,6 seats
